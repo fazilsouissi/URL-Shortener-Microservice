@@ -1,0 +1,4 @@
+{
+    "discord.detailsDebugging": "Debugging {file_name} Ln {current_line}, Col {current_column}",
+    "discord.detailsEditing": "Editing {file_name} Ln {current_line}, Col {current_column}"
+}
